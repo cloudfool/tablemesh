@@ -16,20 +16,23 @@ os.makedirs('./train_imgs',exist_ok=True)
 os.makedirs('./train_gts',exist_ok=True)
 os.makedirs('./test_imgs',exist_ok=True)
 os.makedirs('./test_gts',exist_ok=True)
-json_files = glob.glob('./pdf2/*.json')
+json_files = glob.glob('./TableSplerge_line/pdf2/*.json')
 for json_file in json_files:
     img_file = json_file.replace('.json','.jpg')
     basename = os.path.basename(json_file).replace('.json','')
-    gt_txt = open(json_file.replace('.json','.txt'),'w')
+    txt_file = json_file.replace('.json','.txt')
+    gt_txt = open(txt_file,'w')
     with open(json_file,'r') as f:
         json_ = json.load(f)
         for shape_ in json_['shapes']:
             if shape_['label'] == 'line_area_hori':
-                points = shape_['points'].tolist()
+                [[x1,y1],[x2,y2],[x3,y3],[x4,y4]] = shape_['points']
+                points = [str(x) for x in [x1,y1,x2,y2,x3,y3,x4,y4]]
                 gt_txt.write(','.join(points)+',---\n')
                 
             elif shape_['label'] == 'line_area_vert':
-                points = shape_['points'].tolist()
+                [[x1,y1],[x2,y2],[x3,y3],[x4,y4]] = shape_['points']
+                points = [str(x) for x in [x1,y1,x2,y2,x3,y3,x4,y4]]
                 gt_txt.write(','.join(points)+',|||\n')
     gt_txt.close()
 
@@ -42,10 +45,12 @@ for json_file in json_files:
 
     p_src = img_file
     p_dst = './' + trainval + '_imgs/' + basename + '.jpg'
+    print(p_src,p_dst)
     softLinkImg(p_src, p_dst)   
-    p_src = gt_txt
+    p_src = txt_file
     p_dst = './' + trainval + '_gts/' + basename + '.txt'
-    softLinkImg(p_src, p_dst)    
+    softLinkImg(p_src, p_dst)  
+    print(p_src,p_dst)  
 
 
 
