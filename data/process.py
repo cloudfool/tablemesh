@@ -44,7 +44,7 @@ for json_file in json_files:
         trainval = 'train'
 
     p_src = img_file
-    p_dst = './' + trainval + '_imgs/' + basename + '.jpg'
+    p_dst = './' + trainval + '_images/' + basename + '.jpg'
     print(p_src,p_dst)
     softLinkImg(p_src, p_dst)   
     p_src = txt_file
