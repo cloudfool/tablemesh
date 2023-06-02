@@ -12,9 +12,9 @@ def softLinkImg(p_src, p_dst):
     else:
         os.system(cmd)
 
-os.makedirs('./train_imgs',exist_ok=True)
+os.makedirs('./train_images',exist_ok=True)
 os.makedirs('./train_gts',exist_ok=True)
-os.makedirs('./test_imgs',exist_ok=True)
+os.makedirs('./test_images',exist_ok=True)
 os.makedirs('./test_gts',exist_ok=True)
 json_files = glob.glob('./TableSplerge_line/pdf2/*.json')
 for json_file in json_files:
