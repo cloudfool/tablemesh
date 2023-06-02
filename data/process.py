@@ -27,12 +27,12 @@ for json_file in json_files:
         for shape_ in json_['shapes']:
             if shape_['label'] == 'line_area_hori':
                 [[x1,y1],[x2,y2],[x3,y3],[x4,y4]] = shape_['points']
-                points = [str(x) for x in [x1,y1,x2,y2,x3,y3,x4,y4]]
+                points = [str(int(x)) for x in [x1,y1,x2,y2,x3,y3,x4,y4]]
                 gt_txt.write(','.join(points)+',---\n')
                 
             elif shape_['label'] == 'line_area_vert':
                 [[x1,y1],[x2,y2],[x3,y3],[x4,y4]] = shape_['points']
-                points = [str(x) for x in [x1,y1,x2,y2,x3,y3,x4,y4]]
+                points = [str(int(x)) for x in [x1,y1,x2,y2,x3,y3,x4,y4]]
                 gt_txt.write(','.join(points)+',|||\n')
     gt_txt.close()
 
