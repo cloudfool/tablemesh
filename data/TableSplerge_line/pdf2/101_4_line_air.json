@@ -1,0 +1,2062 @@
+{
+  "version": "3.16.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "table",
+      "points": [
+        [
+          354.5,
+          823.0
+        ],
+        [
+          2126.5,
+          823.0
+        ],
+        [
+          2126.5,
+          3206.0
+        ],
+        [
+          354.5,
+          3206.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_vert",
+      "points": [
+        [
+          857.5,
+          823.0
+        ],
+        [
+          988.5,
+          823.0
+        ],
+        [
+          988.5,
+          3206.0
+        ],
+        [
+          857.5,
+          3206.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          2970.0
+        ],
+        [
+          2125.5,
+          2969.0
+        ],
+        [
+          2126.5,
+          3205.0
+        ],
+        [
+          965.5,
+          3206.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          2734.0
+        ],
+        [
+          2125.5,
+          2733.0
+        ],
+        [
+          2126.5,
+          2968.0
+        ],
+        [
+          965.5,
+          2969.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          2498.0
+        ],
+        [
+          2125.5,
+          2497.0
+        ],
+        [
+          2126.5,
+          2732.0
+        ],
+        [
+          965.5,
+          2733.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          2262.0
+        ],
+        [
+          2125.5,
+          2261.0
+        ],
+        [
+          2126.5,
+          2496.0
+        ],
+        [
+          965.5,
+          2497.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          2026.0
+        ],
+        [
+          2125.5,
+          2025.0
+        ],
+        [
+          2126.5,
+          2260.0
+        ],
+        [
+          965.5,
+          2261.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          1392.0
+        ],
+        [
+          2125.5,
+          1391.0
+        ],
+        [
+          2126.5,
+          1626.0
+        ],
+        [
+          965.5,
+          1627.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          1156.0
+        ],
+        [
+          2125.5,
+          1155.0
+        ],
+        [
+          2126.5,
+          1390.0
+        ],
+        [
+          965.5,
+          1391.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          959.0
+        ],
+        [
+          2125.5,
+          958.0
+        ],
+        [
+          2126.5,
+          1154.0
+        ],
+        [
+          965.5,
+          1155.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          824.0
+        ],
+        [
+          2125.5,
+          823.0
+        ],
+        [
+          2126.5,
+          957.0
+        ],
+        [
+          965.5,
+          958.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          2970.0
+        ],
+        [
+          963.5,
+          2969.0
+        ],
+        [
+          964.5,
+          3205.0
+        ],
+        [
+          355.5,
+          3206.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          2734.0
+        ],
+        [
+          963.5,
+          2733.0
+        ],
+        [
+          964.5,
+          2968.0
+        ],
+        [
+          355.5,
+          2969.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          2498.0
+        ],
+        [
+          963.5,
+          2497.0
+        ],
+        [
+          964.5,
+          2732.0
+        ],
+        [
+          355.5,
+          2733.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          2262.0
+        ],
+        [
+          963.5,
+          2261.0
+        ],
+        [
+          964.5,
+          2496.0
+        ],
+        [
+          355.5,
+          2497.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          2026.0
+        ],
+        [
+          963.5,
+          2025.0
+        ],
+        [
+          964.5,
+          2260.0
+        ],
+        [
+          355.5,
+          2261.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          1392.0
+        ],
+        [
+          963.5,
+          1391.0
+        ],
+        [
+          964.5,
+          1626.0
+        ],
+        [
+          355.5,
+          1627.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          1156.0
+        ],
+        [
+          963.5,
+          1155.0
+        ],
+        [
+          964.5,
+          1390.0
+        ],
+        [
+          355.5,
+          1391.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          918.0
+        ],
+        [
+          2126.5,
+          918.0
+        ],
+        [
+          2126.5,
+          991.0
+        ],
+        [
+          354.5,
+          991.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          959.0
+        ],
+        [
+          963.5,
+          958.0
+        ],
+        [
+          964.5,
+          1154.0
+        ],
+        [
+          355.5,
+          1155.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          1946.0
+        ],
+        [
+          2125.5,
+          1945.0
+        ],
+        [
+          2126.5,
+          2024.0
+        ],
+        [
+          965.5,
+          2025.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          1866.0
+        ],
+        [
+          2125.5,
+          1865.0
+        ],
+        [
+          2126.5,
+          1944.0
+        ],
+        [
+          965.5,
+          1945.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          1786.0
+        ],
+        [
+          2125.5,
+          1785.0
+        ],
+        [
+          2126.5,
+          1864.0
+        ],
+        [
+          965.5,
+          1865.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          1628.0
+        ],
+        [
+          2125.5,
+          1627.0
+        ],
+        [
+          2126.5,
+          1706.0
+        ],
+        [
+          965.5,
+          1707.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          964.5,
+          1708.0
+        ],
+        [
+          2125.5,
+          1707.0
+        ],
+        [
+          2126.5,
+          1784.0
+        ],
+        [
+          965.5,
+          1785.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          824.0
+        ],
+        [
+          963.5,
+          823.0
+        ],
+        [
+          964.5,
+          957.0
+        ],
+        [
+          355.5,
+          958.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          1123.0
+        ],
+        [
+          2126.5,
+          1123.0
+        ],
+        [
+          2126.5,
+          1169.0
+        ],
+        [
+          354.5,
+          1169.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          813.0
+        ],
+        [
+          2126.5,
+          813.0
+        ],
+        [
+          2126.5,
+          858.0
+        ],
+        [
+          354.5,
+          858.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_vert",
+      "points": [
+        [
+          344.5,
+          823.0
+        ],
+        [
+          377.5,
+          823.0
+        ],
+        [
+          377.5,
+          3206.0
+        ],
+        [
+          344.5,
+          3206.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_vert",
+      "points": [
+        [
+          344.5,
+          823.0
+        ],
+        [
+          377.5,
+          823.0
+        ],
+        [
+          377.5,
+          3206.0
+        ],
+        [
+          344.5,
+          3206.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          1377.0
+        ],
+        [
+          2126.5,
+          1377.0
+        ],
+        [
+          2126.5,
+          1405.0
+        ],
+        [
+          354.5,
+          1405.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          1613.0
+        ],
+        [
+          2126.5,
+          1613.0
+        ],
+        [
+          2126.5,
+          1641.0
+        ],
+        [
+          354.5,
+          1641.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          1946.0
+        ],
+        [
+          963.5,
+          1945.0
+        ],
+        [
+          964.5,
+          2024.0
+        ],
+        [
+          355.5,
+          2025.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          1866.0
+        ],
+        [
+          963.5,
+          1865.0
+        ],
+        [
+          964.5,
+          1944.0
+        ],
+        [
+          355.5,
+          1945.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          1786.0
+        ],
+        [
+          963.5,
+          1785.0
+        ],
+        [
+          964.5,
+          1864.0
+        ],
+        [
+          355.5,
+          1865.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          1628.0
+        ],
+        [
+          963.5,
+          1627.0
+        ],
+        [
+          964.5,
+          1706.0
+        ],
+        [
+          355.5,
+          1707.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "table_cell",
+      "points": [
+        [
+          354.5,
+          1708.0
+        ],
+        [
+          963.5,
+          1707.0
+        ],
+        [
+          964.5,
+          1784.0
+        ],
+        [
+          355.5,
+          1785.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": "",
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          2957.0
+        ],
+        [
+          2126.5,
+          2957.0
+        ],
+        [
+          2126.5,
+          2984.0
+        ],
+        [
+          354.5,
+          2984.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_vert",
+      "points": [
+        [
+          973.5,
+          3206.0
+        ],
+        [
+          953.5,
+          3206.0
+        ],
+        [
+          953.5,
+          822.0
+        ],
+        [
+          973.5,
+          822.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_vert",
+      "points": [
+        [
+          2136.5,
+          3206.0
+        ],
+        [
+          2116.5,
+          3206.0
+        ],
+        [
+          2116.5,
+          822.0
+        ],
+        [
+          2136.5,
+          822.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_vert",
+      "points": [
+        [
+          363.5,
+          3206.0
+        ],
+        [
+          343.5,
+          3206.0
+        ],
+        [
+          343.5,
+          822.0
+        ],
+        [
+          363.5,
+          822.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_vert",
+      "points": [
+        [
+          2116.5,
+          823.0
+        ],
+        [
+          2136.5,
+          823.0
+        ],
+        [
+          2136.5,
+          3206.0
+        ],
+        [
+          2116.5,
+          3206.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_vert",
+      "points": [
+        [
+          2116.5,
+          823.0
+        ],
+        [
+          2136.5,
+          823.0
+        ],
+        [
+          2136.5,
+          3206.0
+        ],
+        [
+          2116.5,
+          3206.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          1695.0
+        ],
+        [
+          2126.5,
+          1695.0
+        ],
+        [
+          2126.5,
+          1721.0
+        ],
+        [
+          354.5,
+          1721.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          1773.0
+        ],
+        [
+          2126.5,
+          1773.0
+        ],
+        [
+          2126.5,
+          1799.0
+        ],
+        [
+          354.5,
+          1799.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          1853.0
+        ],
+        [
+          2126.5,
+          1853.0
+        ],
+        [
+          2126.5,
+          1879.0
+        ],
+        [
+          354.5,
+          1879.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          1933.0
+        ],
+        [
+          2126.5,
+          1933.0
+        ],
+        [
+          2126.5,
+          1959.0
+        ],
+        [
+          354.5,
+          1959.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          2013.0
+        ],
+        [
+          2126.5,
+          2013.0
+        ],
+        [
+          2126.5,
+          2039.0
+        ],
+        [
+          354.5,
+          2039.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          2249.0
+        ],
+        [
+          2126.5,
+          2249.0
+        ],
+        [
+          2126.5,
+          2275.0
+        ],
+        [
+          354.5,
+          2275.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          2485.0
+        ],
+        [
+          2126.5,
+          2485.0
+        ],
+        [
+          2126.5,
+          2511.0
+        ],
+        [
+          354.5,
+          2511.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          2721.0
+        ],
+        [
+          2126.5,
+          2721.0
+        ],
+        [
+          2126.5,
+          2747.0
+        ],
+        [
+          354.5,
+          2747.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "seperator_hori",
+      "points": [
+        [
+          354.5,
+          3194.0
+        ],
+        [
+          2126.5,
+          3194.0
+        ],
+        [
+          2126.5,
+          3216.0
+        ],
+        [
+          354.5,
+          3216.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "polygon",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          3216.0
+        ],
+        [
+          353.5,
+          3216.0
+        ],
+        [
+          353.5,
+          3196.0
+        ],
+        [
+          2126.5,
+          3196.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          2979.0
+        ],
+        [
+          353.5,
+          2979.0
+        ],
+        [
+          353.5,
+          2959.0
+        ],
+        [
+          2126.5,
+          2959.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          2743.0
+        ],
+        [
+          353.5,
+          2743.0
+        ],
+        [
+          353.5,
+          2723.0
+        ],
+        [
+          2126.5,
+          2723.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          2507.0
+        ],
+        [
+          353.5,
+          2507.0
+        ],
+        [
+          353.5,
+          2487.0
+        ],
+        [
+          2126.5,
+          2487.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          2271.0
+        ],
+        [
+          353.5,
+          2271.0
+        ],
+        [
+          353.5,
+          2251.0
+        ],
+        [
+          2126.5,
+          2251.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          2035.0
+        ],
+        [
+          353.5,
+          2035.0
+        ],
+        [
+          353.5,
+          2015.0
+        ],
+        [
+          2126.5,
+          2015.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          1955.0
+        ],
+        [
+          353.5,
+          1955.0
+        ],
+        [
+          353.5,
+          1935.0
+        ],
+        [
+          2126.5,
+          1935.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          1875.0
+        ],
+        [
+          353.5,
+          1875.0
+        ],
+        [
+          353.5,
+          1855.0
+        ],
+        [
+          2126.5,
+          1855.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          1795.0
+        ],
+        [
+          353.5,
+          1795.0
+        ],
+        [
+          353.5,
+          1775.0
+        ],
+        [
+          2126.5,
+          1775.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          1716.0
+        ],
+        [
+          353.5,
+          1716.0
+        ],
+        [
+          353.5,
+          1696.0
+        ],
+        [
+          2126.5,
+          1696.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          1636.0
+        ],
+        [
+          353.5,
+          1636.0
+        ],
+        [
+          353.5,
+          1616.0
+        ],
+        [
+          2126.5,
+          1616.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          1400.0
+        ],
+        [
+          353.5,
+          1400.0
+        ],
+        [
+          353.5,
+          1380.0
+        ],
+        [
+          2126.5,
+          1380.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          1164.0
+        ],
+        [
+          353.5,
+          1164.0
+        ],
+        [
+          353.5,
+          1144.0
+        ],
+        [
+          2126.5,
+          1144.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          967.0
+        ],
+        [
+          353.5,
+          967.0
+        ],
+        [
+          353.5,
+          947.0
+        ],
+        [
+          2126.5,
+          947.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          2126.5,
+          832.0
+        ],
+        [
+          353.5,
+          832.0
+        ],
+        [
+          353.5,
+          812.0
+        ],
+        [
+          2126.5,
+          812.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    },
+    {
+      "label": "line_area_hori",
+      "points": [
+        [
+          368.5,
+          290.0
+        ],
+        [
+          368.5,
+          270.0
+        ],
+        [
+          2111.5,
+          270.0
+        ],
+        [
+          2111.5,
+          290.0
+        ]
+      ],
+      "line_color": null,
+      "fill_color": null,
+      "flags": {},
+      "contenttext": null,
+      "remarktext": "",
+      "shape_type": "slant_rectangle",
+      "area": null,
+      "bbox": [],
+      "color": ""
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "101_4_line_air.jpg",
+  "imageData": null,
+  "imageHeight": 3508,
+  "imageWidth": 2481
+}
