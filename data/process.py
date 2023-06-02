@@ -1,5 +1,5 @@
 import json,os
-import glob,random
+import glob,random,shutil
 
 def softLinkImg(p_src, p_dst):
     # 软连接 图片
@@ -46,10 +46,12 @@ for json_file in json_files:
     p_src = img_file
     p_dst = './' + trainval + '_images/' + basename + '.jpg'
     print(p_src,p_dst)
-    softLinkImg(p_src, p_dst)   
+    shutil.copyfile(p_src,p_dst)
+    #softLinkImg(p_src, p_dst)   
     p_src = txt_file
     p_dst = './' + trainval + '_gts/' + basename + '.txt'
-    softLinkImg(p_src, p_dst)  
+    #softLinkImg(p_src, p_dst)  
+    shutil.copyfile(p_src,p_dst)
     print(p_src,p_dst)  
 
 
